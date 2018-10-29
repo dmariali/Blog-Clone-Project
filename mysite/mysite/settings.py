@@ -19,7 +19,7 @@ TEMPLATE_DIR = os.path.join(BASE_DIR, 'blog/templates/blog')
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
-
+SECRET_KEY = '(co5!6u%bxkbp_8fv_b!t+k%hb))^8o+p=%55jy@^&9kbech+q'
 DEBUG = False
 
 ALLOWED_HOSTS = []
